@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 import { useSelector, useDispatch } from 'react-redux';
 import { deleteSelectedMembers, setSearchTerm } from '../../features/membersSlice';
-import DeleteConfirmModal from './DeleteConfirmModal';
+// import DeleteConfirmModal from './DeleteConfirmModal';
 import { FiSearch, FiTrash2 } from 'react-icons/fi';
 
 const Index = () => {
