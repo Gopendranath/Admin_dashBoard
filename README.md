@@ -3,6 +3,8 @@
 
 A modern, responsive admin dashboard built with ReactJS, featuring search functionality, pagination, and a paginated list displaying 10 items per page. This project utilizes Vite for fast builds, React Redux Toolkit for state management, Tailwind CSS for styling, React Hot Toast for notifications, and React Icons for enhanced UI elements.
 
+**Visit [Here](https://admin-dashboard-ur6j.onrender.com) for more information.**
+
 ## Features
 
 - **Search Functionality**: Filter the list of items dynamically.
